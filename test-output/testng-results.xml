@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="6" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-05T22:26:50 EET" name="Default suite" finished-at="2023-12-05T22:26:59 EET" duration-ms="8757">
+    <groups>
+    </groups>
+    <test started-at="2023-12-05T22:26:50 EET" name="Default test" finished-at="2023-12-05T22:26:59 EET" duration-ms="8757">
+      <class name="sawglab.swagLabTestCases">
+        <test-method is-config="true" signature="mySetUp()[pri:0, instance:sawglab.swagLabTestCases@c260bdc]" started-at="2023-12-05T22:26:50 EET" name="mySetUp" finished-at="2023-12-05T22:26:51 EET" duration-ms="1098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetUp -->
+        <test-method signature="logInTest()[pri:1, instance:sawglab.swagLabTestCases@c260bdc]" started-at="2023-12-05T22:26:51 EET" name="logInTest" finished-at="2023-12-05T22:26:52 EET" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInTest -->
+        <test-method signature="addBike()[pri:2, instance:sawglab.swagLabTestCases@c260bdc]" started-at="2023-12-05T22:26:52 EET" name="addBike" finished-at="2023-12-05T22:26:59 EET" duration-ms="7430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBike -->
+        <test-method is-config="true" signature="after()[pri:0, instance:sawglab.swagLabTestCases@c260bdc]" started-at="2023-12-05T22:26:59 EET" name="after" finished-at="2023-12-05T22:26:59 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- sawglab.swagLabTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
